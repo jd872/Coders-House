@@ -1,0 +1,17 @@
+.navbar{
+    padding: 20px 0;
+    width: 1200px;
+  max-width: 90%;
+  margin: 0 auto;
+}
+.appHeading{
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 22px;
+    display: flex;
+    align-items: center;
+}
+.appName{
+    margin-left: 10px;
+}
