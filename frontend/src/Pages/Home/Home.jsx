@@ -16,7 +16,7 @@ const Home = () => {
           We’re working hard to get Codershouse ready for everyone! While we wrap up the finishing youches, we’re adding people gradually to make sure nothing breaks
         </p>
         <div>
-          <Button onClick={()=>Navigate('/register')} text="Get Your username" />
+          <Button onClick={()=>Navigate('/authenticate')} text="Let's Go" />
         </div>
         <div className='signInWrapper'>
           <span className='hasInvite'>Have an invite text?</span>

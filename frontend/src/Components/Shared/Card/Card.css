@@ -1,11 +1,13 @@
 .card{
     width: 500px;
-    max-width: 90%;
-    min-height: 300px;
+    min-height: 350px;
     background-color: #1D1D1D;
     padding: 30px;
     border-radius: 20px;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 .headingWrapper{
     display: flex;
